@@ -1,1 +1,3 @@
+role,NetID,LastName,FirstName
 boss,lchen699,Chen,Linshan
+employee,cbrown,Brown,Charlie
